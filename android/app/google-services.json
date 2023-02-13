@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "841255684556",
+    "project_id": "add-fbtoflutter2-410aa",
+    "storage_bucket": "add-fbtoflutter2-410aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841255684556:android:3d942ff822ec200afd7569",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841255684556-lvro6jflruuq4973vtq2dtehvbp63sjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNiaaMzziS1YA00GkTXMhVb5VQoFoNpuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841255684556-lvro6jflruuq4973vtq2dtehvbp63sjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841255684556-i7r0q2f2dsv6k1c6a0f7lceeodso32k7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oalshokri.chatAppClass"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841255684556:android:5b47ea4fbcfb05a2fd7569",
+        "android_client_info": {
+          "package_name": "com.oalshokri.chat_app_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841255684556-lvro6jflruuq4973vtq2dtehvbp63sjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNiaaMzziS1YA00GkTXMhVb5VQoFoNpuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841255684556-lvro6jflruuq4973vtq2dtehvbp63sjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841255684556-i7r0q2f2dsv6k1c6a0f7lceeodso32k7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oalshokri.chatAppClass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
